@@ -84,3 +84,4 @@ but can also include more options for more complicated scenarios
       [actionblock=macro type=release]]
 ```
 
+Joystick controlls are numbered in hexidecimal. 
